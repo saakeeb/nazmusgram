@@ -5,7 +5,7 @@ const Title = () => {
     <div className="title">
       <h1>NazmusGram</h1>
       <h2>Your Pictures</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <p>Please upload your picture to NazmusGram to make beautiful gallery</p>
     </div>
   )
 }
